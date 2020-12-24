@@ -87,12 +87,15 @@ header nav ul li a {
 .my-work-links {
     flex: 75%;
     padding-left: 50px;
+    display: inline-flex;
+    height: 10%;
+    width: 10%;
+    justify-content: space-evenly;
 }
 
 .my-work-links a {
     text-decoration: none;
-    color:rgb(0, 129, 161);
-    margin: 50px;
+    color: black;
 }
 
 .contact-info {
@@ -117,7 +120,18 @@ header nav ul li a {
     margin: 50px;
 }
 
-.main-section h2 {
+.main-sections h2 {
     font-size: 1.6vw;
 }
 
+.run-buddy {
+    background-image: url(../images/run-buddy.PNG);
+    background-size: cover;
+    padding: 50px;
+}
+
+.password {
+    background-image: url(../images/password-generator.PNG);
+    background-size: cover;
+    width: 20%;
+}
