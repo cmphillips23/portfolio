@@ -134,4 +134,12 @@ header nav ul li a {
     background-image: url(../images/password-generator.PNG);
     background-size: cover;
     width: 20%;
+    text-align: center;
+}
+
+.safe-flight {
+    background-image: url(../images/safe-flight.PNG);
+    background-size: cover;
+    width: 20%;
+    text-align: center;
 }
