@@ -143,3 +143,10 @@ header nav ul li a {
     width: 20%;
     text-align: center;
 }
+
+.recess {
+    background-image: url(../images/Recess.PNG);
+    background-size: cover;
+    width: 20%;
+    text-align: center;
+}
